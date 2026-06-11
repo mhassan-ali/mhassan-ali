@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hassan Ali
+# Hi , I'm Hassan Ali
 
 ### Full-Stack Developer | Computer Science Student
 
@@ -8,7 +8,7 @@ Currently focused on React, FastAPI, Python, and Data Structures & Algorithms wh
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science Student
 - 💻 Building Full-Stack Applications
@@ -18,7 +18,7 @@ Currently focused on React, FastAPI, Python, and Data Structures & Algorithms wh
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,9 +38,9 @@ Currently focused on React, FastAPI, Python, and Data Structures & Algorithms wh
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🛒 React Shopping Hub
+##  React Shopping Hub
 Online Shopping Website built with React featuring a modern user interface and payment gateway integration.
 
 ### Tech Used
@@ -50,7 +50,7 @@ Online Shopping Website built with React featuring a modern user interface and p
 
 ---
 
-## ✅ JWT Task Manager
+##  JWT Task Manager
 A Full-Stack Task Management Application with secure JWT Authentication, task isolation, priority filtering, and dark mode support.
 
 ### Tech Used
@@ -61,7 +61,7 @@ A Full-Stack Task Management Application with secure JWT Authentication, task is
 
 ---
 
-## 📊 Images To PPT Converter
+##  Images To PPT Converter
 Python automation tool that converts ordered images into PowerPoint presentations automatically.
 
 ### Tech Used
@@ -71,7 +71,7 @@ Python automation tool that converts ordered images into PowerPoint presentation
 
 ---
 
-## 🐍 FastAPI Issue Tracker
+## FastAPI Issue Tracker
 Issue tracking system built with FastAPI for managing and organizing project issues efficiently.
 
 ### Tech Used
@@ -81,7 +81,7 @@ Issue tracking system built with FastAPI for managing and organizing project iss
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true)
 
@@ -89,7 +89,7 @@ Issue tracking system built with FastAPI for managing and organizing project iss
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Build more Full-Stack Projects
 - Strengthen Backend Development Skills
