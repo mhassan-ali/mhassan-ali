@@ -102,7 +102,7 @@ Issue tracking system built with FastAPI for managing and organizing project iss
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/mhassan-ali
-- LinkedIn: Add Your LinkedIn Profile
+- LinkedIn: in/muhammad-hassan-ali7
 - Portfolio: Coming Soon 🚀
 
 ---
