@@ -1,6 +1,6 @@
 # Hi , I'm Hassan Ali
 
-### Full-Stack Developer | Computer Science Student
+### Full-Stack Developer | Computer Engineering Student
 
 I'm passionate about building modern web applications, backend systems, and solving problems through code.
 
