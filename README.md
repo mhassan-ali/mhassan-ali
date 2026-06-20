@@ -10,7 +10,7 @@ Currently focused on React, FastAPI, Python, and Data Structures & Algorithms wh
 
 ##  About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computer Engineering Student
 - 💻 Building Full-Stack Applications
 - 🌱 Currently learning Advanced React, FastAPI & DSA
 - 🎯 Goal: Secure a Software Engineering Internship
