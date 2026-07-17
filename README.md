@@ -1,110 +1,95 @@
-# Hi , I'm Hassan Ali
+<h1 align="center">Hi, I'm Hassan Ali 👋</h1>
+<h3 align="center">Python Full-Stack Developer | React.js & Next.js | FastAPI</h3>
 
-### Full-Stack Developer | Computer Engineering Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Full-Stack+Developer;React+%2B+Next.js+%2B+FastAPI;CS+Student+%40+SSUET+Karachi;Building+REST+APIs+%26+Web+Apps" alt="Typing SVG" />
+</p>
 
-I'm passionate about building modern web applications, backend systems, and solving problems through code.
-
-Currently focused on React, FastAPI, Python, and Data Structures & Algorithms while preparing for Software Engineering internships.
-
----
-
-##  About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Building Full-Stack Applications
-- 🌱 Currently learning Advanced React, FastAPI & DSA
-- 🎯 Goal: Secure a Software Engineering Internship
-- ⚡ Love turning ideas into real-world projects
+<p align="center">
+  <a href="https://mhassan-ali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-hassan-ali7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/not_hassan_ali"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:m.hassanali.ce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## Tech Stack
+### 🚀 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+- 🎓 CS Student at **Sir Syed University of Engineering and Technology (SSUET)**, Karachi — graduating 2028
+- 🐍 **Python Full-Stack Developer** — React/Next.js on the frontend, Python/FastAPI on the backend
+- 💻 Currently building full-stack apps, REST APIs, and sharpening Data Structures & Algorithms
+- ⚡ I like turning ideas into real, working products — from secure auth systems to REST APIs
+- 🌱 Learning: Advanced React, System Design, and clean backend architecture
 
 ---
 
-# Featured Projects
+### 🛠️ Tech Stack
 
-##  React Shopping Hub
-Online Shopping Website built with React featuring a modern user interface and payment gateway integration.
+**Languages**
 
-### Tech Used
-- React.js
-- JavaScript
-- Payment Integration
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
----
+**Frontend**
 
-##  JWT Task Manager
-A Full-Stack Task Management Application with secure JWT Authentication, task isolation, priority filtering, and dark mode support.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Tech Used
-- React
-- FastAPI
-- JWT Authentication
-- REST APIs
+**Backend**
 
----
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-##  Images To PPT Converter
-Python automation tool that converts ordered images into PowerPoint presentations automatically.
+**Tools**
 
-### Tech Used
-- Python
-- Automation
-- PPT Generation
-
----
-
-## FastAPI Issue Tracker
-Issue tracking system built with FastAPI for managing and organizing project issues efficiently.
-
-### Tech Used
-- FastAPI
-- Python
-- REST APIs
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
-##  GitHub Stats
+### 💼 Featured Projects
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true)
+| Project | Tech Used | Description |
+|---|---|---|
+| [**JWT Task Manager**](https://github.com/mhassan-ali/jwt-task-manager) | React, FastAPI, JWT, SQLAlchemy | Full-stack task manager with secure auth, multi-user task isolation, priority filtering & dark mode |
+| [**FastAPI Issue Tracker**](https://github.com/mhassan-ali/FastApi--issue--tracker) | FastAPI, Python, SQLAlchemy | Issue tracking system with persistent storage and REST APIs |
+| [**Weather Dashboard**](https://github.com/mhassan-ali/weather-dashboard) | React, FastAPI, JS, HTML/CSS | Real-time weather dashboard with forecasts and an interactive UI |
+| [**QR Code Generator**](https://github.com/mhassan-ali/QR-Code-Generator) | Python, FastAPI, Pillow | Dynamic QR generator with live preview, custom colors & patterns |
+| [**React Shopping Hub**](https://github.com/mhassan-ali/react-shopping-hub) | React.js, Node.js | Modern e-commerce UI with payment gateway integration |
+| [**Pac-Man: Dual-Engine DSA & AI**](https://github.com/mhassan-ali/modern-pacman-mvc) | Python, JS, HTML5 Canvas, BFS | Dual-implementation of Pac-Man (Tkinter + Canvas) with AI pathfinding visualization |
+| [**Images to PPT Converter**](https://github.com/mhassan-ali/images-to-ppt-converter) | Python, python-pptx | Automation tool that converts ordered images into a PowerPoint deck |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact)
-
----
-
-##  Current Goals
-
-- Build more Full-Stack Projects
-- Strengthen Backend Development Skills
-- Master Data Structures & Algorithms
-- Contribute to Open Source
-- Land a Software Engineering Internship
+🔗 More details & live previews on my **[Portfolio →](https://mhassan-ali.vercel.app/)**
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
-- GitHub: https://github.com/mhassan-ali
-- LinkedIn: in/muhammad-hassan-ali7
-- Portfolio: Coming Soon 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=default" alt="Hassan's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhassan-ali" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐ Always Learning • Always Building • Always Improving
+### 📫 Let's Connect
+
+- 🌐 Portfolio: [mhassan-ali.vercel.app](https://mhassan-ali.vercel.app/)
+- 💼 LinkedIn: [muhammad-hassan-ali7](https://www.linkedin.com/in/muhammad-hassan-ali7/)
+- 🐦 X (Twitter): [@not_hassan_ali](https://x.com/not_hassan_ali)
+- 📧 Email: [m.hassanali.ce@gmail.com](mailto:m.hassanali.ce@gmail.com)
+
+<p align="center"><i>⭐ Always Learning • Always Building • Always Improving</i></p>
