@@ -74,14 +74,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Hassan GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact&theme=radical&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhassan-ali&theme=radical&hide_border=false)
-
+<<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact&theme=radical" />
+  <br/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=mhassan-ali&theme=radical" />
 </div>
 
 ### 📫 Let's Connect
