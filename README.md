@@ -82,7 +82,7 @@
   
   <br/>
   
-  <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mhassan-ali&theme=radical" />
+  <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mhassan-ali&theme=radical&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
