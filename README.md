@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Stats
 
-<<div align="center">
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact&theme=radical" />
   <br/>
