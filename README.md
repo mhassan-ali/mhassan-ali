@@ -82,7 +82,7 @@
   
   <br/>
   
-  <img height="180" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mhassan-ali&theme=radical" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mhassan-ali&theme=radical&no-frame=true&margin-w=15&column=7" />
 
 </div>
 
