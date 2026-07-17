@@ -75,15 +75,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=default" alt="Hassan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhassan-ali&show_icons=true&theme=default&hide_border=true" alt="Hassan's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan-ali&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhassan-ali" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mhassan-ali&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Let's Connect
 
