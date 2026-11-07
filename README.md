@@ -78,7 +78,7 @@ recommended_action: Read on, then get in touch
 | # | Evidence | Stack | What it proves |
 | --- | --- | --- | --- |
 | 01 | [**JWT Task Manager**](https://github.com/mhassan-ali/jwt-task-manager) | React, FastAPI, JWT, SQLAlchemy | Secure auth, multi-user task isolation, priority filtering, dark mode |
-| 02 | **Pharmacy POS (Desktop)** |(https://github.com/mhassan-ali/pharmacy-pos-desktop) | Desktop app | A real-world point-of-sale tool for pharmacies |
+| 02 | [**Pharmacy POS (Desktop)**](https://github.com/mhassan-ali/pharmacy-pos-desktop) | Desktop app | A real-world point-of-sale tool for pharmacies |
 | 03 | [**FastAPI Issue Tracker**](https://github.com/mhassan-ali/FastApi--issue--tracker) | FastAPI, SQLAlchemy | Persistent storage and clean REST APIs |
 | 04 | [**Weather Dashboard**](https://github.com/mhassan-ali/weather-dashboard) | React, FastAPI | Real-time data in an interactive UI |
 | 05 | [**QR Code Generator**](https://github.com/mhassan-ali/QR-Code-Generator) | Python, FastAPI, Pillow | Live preview, custom colors and patterns, one-click download |
